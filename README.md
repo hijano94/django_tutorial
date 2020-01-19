@@ -1,2 +1,2 @@
 # django_tutorial
-Tutorial django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+[![Actions Status](https://github.com/hijano94/django_tutorial/workflows/CI/badge.svg)](https://github.com/hijano94/django_tutorial/actions)
